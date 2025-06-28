@@ -1,0 +1,4 @@
+terraform init
+terraform apply
+# To destroy the resources created by this Terraform configuration, run:
+# terraform destroy 
